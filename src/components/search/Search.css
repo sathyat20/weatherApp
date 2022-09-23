@@ -1,0 +1,9 @@
+#search-style {
+  display: flex;
+  margin-top: 150px;
+  justify-content: center;
+}
+
+#search-bar {
+  width: 615px;
+}
